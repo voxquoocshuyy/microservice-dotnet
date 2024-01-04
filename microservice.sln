@@ -1,8 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{ACE26367-653F-446E-B8FF-E821FF980537}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{ACE26367-653F-446E-B8FF-E821FF980537}"
 	ProjectSection(SolutionItems) = preProject
 		global.json = global.json
+		src\docker-compose.override.yml = src\docker-compose.override.yml
+		src\docker-compose.yml = src\docker-compose.yml
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{9BAE5EFE-89A2-47F4-8373-199CBC08F8A4}"

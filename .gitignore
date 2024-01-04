@@ -1,0 +1,14 @@
+/microservice.sln.DotSettings.user
+/src/ApiGatways/OcelotApiGw/obj/rider.project.model.nuget.info
+/src/BuildingBlocks/Common.Logging/obj/rider.project.model.nuget.info
+/src/BuildingBlocks/Contracts/obj/rider.project.model.nuget.info
+/src/BuildingBlocks/EventBus.Messages/obj/rider.project.model.nuget.info
+/src/BuildingBlocks/Infrastructure/obj/rider.project.model.nuget.info
+/src/BuildingBlocks/Shared/obj/rider.project.model.nuget.info
+/src/Services/Basket.API/obj/rider.project.model.nuget.info
+/src/Services/Customer.API/obj/rider.project.model.nuget.info
+/src/Services/Hangfire.API/obj/rider.project.model.nuget.info
+/src/Services/Inventory.Product.API/obj/rider.project.model.nuget.info
+/src/Services/Ordering.API/obj/rider.project.model.nuget.info
+/src/Services/Product.API/obj/rider.project.model.nuget.info
+/src/WebApps/WebHealthStatus/obj/rider.project.model.nuget.info
