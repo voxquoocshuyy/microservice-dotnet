@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "NCg420xJCyOz6Hg6G6GYuHUvD4l3oB67wzdh4j4J7eUuaPAog0SewzO+3lwsXq857sGF+InSJnHKPeagUG11FA==",
+  "dgSpecHash": "gEpLB8pmhl7VMDMnwwd8ECcApnc3VU7lFKCwo46eoi/UHdPiHXvsZzxZErMqguYZy4gSvmyqIiSaPbLF+nzNYg==",
   "success": true,
-  "projectFilePath": "D:\\source\\microservice\\src\\BuildingBlocks\\Common.Logging\\Common.Logging.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/quochuy/Study/DotNet/microservice-dotnet/src/BuildingBlocks/Common.Logging/Common.Logging.csproj",
+  "expectedPackageFiles": [
+    "/Users/quochuy/.nuget/packages/microsoft.netcore.app.ref/6.0.25/microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "/Users/quochuy/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.25/microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }

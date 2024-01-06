@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "vy74cvqvqogzbqTz6oV+LzH0vPjd7yxecUbRWiiaAr89DHjwHRs6CVCIT7iWbhqboxAGRu0mINLXKgVpkWpMsw==",
+  "dgSpecHash": "K/iIJ1RzVdwe6Z1wnjW/zxaZVKZfNyYBDsdXwq5l1uXb258d5LLg3/HF82yeo9uHMS211GY51iL6vw+MCsVf1Q==",
   "success": true,
-  "projectFilePath": "D:\\source\\microservice\\src\\BuildingBlocks\\Contracts\\Contracts.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/quochuy/Study/DotNet/microservice-dotnet/src/BuildingBlocks/Contracts/Contracts.csproj",
+  "expectedPackageFiles": [
+    "/Users/quochuy/.nuget/packages/microsoft.netcore.app.ref/6.0.25/microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "/Users/quochuy/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.25/microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }
