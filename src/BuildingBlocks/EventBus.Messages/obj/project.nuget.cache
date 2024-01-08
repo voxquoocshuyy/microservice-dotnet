@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qjCsG18GuT4fSM5rlEXtqfVzXEJoZRx6MvPDGlNfDd1WINWtonLVKrinRz7xrqsORXB4DpzayLnr5Ybz6AUhnw==",
+  "dgSpecHash": "wbsvarKeybNfru/+dBtsfn9enO7aF9HqR0IH+qXDyuS+efr1B6CnPgtOp6K4CiNTCrWMJybXe1r53TVw5cwkew==",
   "success": true,
-  "projectFilePath": "/Users/quochuy/Study/DotNet/microservice-dotnet/src/BuildingBlocks/EventBus.Messages/EventBus.Messages.csproj",
-  "expectedPackageFiles": [
-    "/Users/quochuy/.nuget/packages/microsoft.netcore.app.ref/6.0.25/microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
-    "/Users/quochuy/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.25/microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\source\\microservice\\src\\BuildingBlocks\\EventBus.Messages\\EventBus.Messages.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

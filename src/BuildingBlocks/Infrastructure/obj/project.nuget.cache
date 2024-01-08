@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Zv0fH361+pdR38rRuC85cOBgiqre09To5YOHD8E2VPGk5nj7z0RwvNLegukWcEEmQfSBGuiTdl+iENZWLqrT4w==",
+  "dgSpecHash": "iGf9acUcgEGQEl9IZR7BgfcPcvKwtCqGOuqugB0n3447MQ9e+pIzoJyVV6T/pk+nqIXVdGWqhPfeJSL5hHyLmA==",
   "success": true,
-  "projectFilePath": "/Users/quochuy/Study/DotNet/microservice-dotnet/src/BuildingBlocks/Infrastructure/Infrastructure.csproj",
-  "expectedPackageFiles": [
-    "/Users/quochuy/.nuget/packages/microsoft.netcore.app.ref/6.0.25/microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
-    "/Users/quochuy/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.25/microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\source\\microservice\\src\\BuildingBlocks\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

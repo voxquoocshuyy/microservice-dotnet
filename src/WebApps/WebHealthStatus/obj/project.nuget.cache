@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iMHbyIHtf5o3ynem3zVJ35A49ZCh7lDrF1sQwq7eGqHm7/uYqHgHPgfqYK47TdyK3g72Upthpug5kq4VTYvHhg==",
+  "dgSpecHash": "fJ7fFzowPqqVA9qTKPx7QEFbgQEvw2RCAEgL8lm1Y5kpMI6UyfVjVrF3pE8E8wa2xWIhBv9UNIx5W5izZQBfBQ==",
   "success": true,
-  "projectFilePath": "/Users/quochuy/Study/DotNet/microservice-dotnet/src/WebApps/WebHealthStatus/WebHealthStatus.csproj",
-  "expectedPackageFiles": [
-    "/Users/quochuy/.nuget/packages/microsoft.netcore.app.ref/6.0.25/microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
-    "/Users/quochuy/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.25/microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
-    "/Users/quochuy/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.25/microsoft.netcore.app.host.osx-arm64.6.0.25.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\source\\microservice\\src\\WebApps\\WebHealthStatus\\WebHealthStatus.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
