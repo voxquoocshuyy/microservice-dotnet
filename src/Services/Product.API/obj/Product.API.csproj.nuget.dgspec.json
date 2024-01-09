@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\source\\microservice\\src\\Services\\Product.API\\Product.API.csproj": {}
+    "/Users/quochuy/Study/DotNet/microservice-dotnet/src/Services/Product.API/Product.API.csproj": {}
   },
   "projects": {
-    "D:\\source\\microservice\\src\\BuildingBlocks\\Common.Logging\\Common.Logging.csproj": {
+    "/Users/quochuy/Study/DotNet/microservice-dotnet/src/BuildingBlocks/Common.Logging/Common.Logging.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\microservice\\src\\BuildingBlocks\\Common.Logging\\Common.Logging.csproj",
+        "projectUniqueName": "/Users/quochuy/Study/DotNet/microservice-dotnet/src/BuildingBlocks/Common.Logging/Common.Logging.csproj",
         "projectName": "Common.Logging",
-        "projectPath": "D:\\source\\microservice\\src\\BuildingBlocks\\Common.Logging\\Common.Logging.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\microservice\\src\\BuildingBlocks\\Common.Logging\\obj\\",
+        "projectPath": "/Users/quochuy/Study/DotNet/microservice-dotnet/src/BuildingBlocks/Common.Logging/Common.Logging.csproj",
+        "packagesPath": "/Users/quochuy/.nuget/packages/",
+        "outputPath": "/Users/quochuy/Study/DotNet/microservice-dotnet/src/BuildingBlocks/Common.Logging/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/quochuy/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -69,46 +62,115 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\source\\microservice\\src\\Services\\Product.API\\Product.API.csproj": {
+    "/Users/quochuy/Study/DotNet/microservice-dotnet/src/BuildingBlocks/Contracts/Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\microservice\\src\\Services\\Product.API\\Product.API.csproj",
-        "projectName": "Product.API",
-        "projectPath": "D:\\source\\microservice\\src\\Services\\Product.API\\Product.API.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\microservice\\src\\Services\\Product.API\\obj\\",
+        "projectUniqueName": "/Users/quochuy/Study/DotNet/microservice-dotnet/src/BuildingBlocks/Contracts/Contracts.csproj",
+        "projectName": "Contracts",
+        "projectPath": "/Users/quochuy/Study/DotNet/microservice-dotnet/src/BuildingBlocks/Contracts/Contracts.csproj",
+        "packagesPath": "/Users/quochuy/.nuget/packages/",
+        "outputPath": "/Users/quochuy/Study/DotNet/microservice-dotnet/src/BuildingBlocks/Contracts/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/quochuy/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/quochuy/Study/DotNet/microservice-dotnet/src/Services/Product.API/Product.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/quochuy/Study/DotNet/microservice-dotnet/src/Services/Product.API/Product.API.csproj",
+        "projectName": "Product.API",
+        "projectPath": "/Users/quochuy/Study/DotNet/microservice-dotnet/src/Services/Product.API/Product.API.csproj",
+        "packagesPath": "/Users/quochuy/.nuget/packages/",
+        "outputPath": "/Users/quochuy/Study/DotNet/microservice-dotnet/src/Services/Product.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/quochuy/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\source\\microservice\\src\\BuildingBlocks\\Common.Logging\\Common.Logging.csproj": {
-                "projectPath": "D:\\source\\microservice\\src\\BuildingBlocks\\Common.Logging\\Common.Logging.csproj"
+              "/Users/quochuy/Study/DotNet/microservice-dotnet/src/BuildingBlocks/Common.Logging/Common.Logging.csproj": {
+                "projectPath": "/Users/quochuy/Study/DotNet/microservice-dotnet/src/BuildingBlocks/Common.Logging/Common.Logging.csproj"
+              },
+              "/Users/quochuy/Study/DotNet/microservice-dotnet/src/BuildingBlocks/Contracts/Contracts.csproj": {
+                "projectPath": "/Users/quochuy/Study/DotNet/microservice-dotnet/src/BuildingBlocks/Contracts/Contracts.csproj"
               }
             }
           }
@@ -123,6 +185,20 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
             "Serilog.AspNetCore": {
               "target": "Package",
               "version": "[5.0.0, )"
@@ -143,6 +219,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -151,7 +241,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }

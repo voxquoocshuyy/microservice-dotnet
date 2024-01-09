@@ -13,7 +13,7 @@ try
     // Add configuration to the container.
     builder.Host.AddAppConfiguration();
     // Add services to the container.
-    builder.Services.AddInfrastructure();
+    builder.Services.AddInfrastructure(builder.Configuration);
 
     var app = builder.Build();
     // Configure the HTTP request pipeline.

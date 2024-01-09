@@ -1,12 +1,11 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using Contracts.Domains;
 
 namespace Product.API.Entities;
 
-public class Product
+public class CatalogProduct : EntityAuditBase<long>
 {
-    public long Id { get; set; }
-    
     [Required]
     [Column(TypeName = "nvarchar(250)")]
     public string No { get; set; }
@@ -21,5 +20,6 @@ public class Product
     [Column(TypeName = "nvarchar(250)")]
     public string Description { get; set; }
     
+    [Column(TypeName = "decimal(12,2)")]
     public decimal Price { get; set; }
 }
