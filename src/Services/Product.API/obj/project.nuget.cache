@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jqNozPJntXm36Udrde5Pp5h8R3uW1/vsH+rz5TLXXeEcFuSlRXoY5ZiUyYlorh1jiqHQuUoNcT/P803Ykkdf9g==",
+  "dgSpecHash": "cbXlHrIuLQbCJZj0oCmrFOvcsdMEsfz+pQtWklE1nc2tUWDZfOw0an3rfvbn2iiFkzeRheRhhocLO3peCxICtA==",
   "success": true,
   "projectFilePath": "/Users/quochuy/Study/DotNet/microservice-dotnet/src/Services/Product.API/Product.API.csproj",
   "expectedPackageFiles": [
