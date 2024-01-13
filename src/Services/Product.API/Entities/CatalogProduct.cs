@@ -14,10 +14,10 @@ public class CatalogProduct : EntityAuditBase<long>
     [Column(TypeName = "nvarchar(250)")]
     public string Name { get; set; }
     
-    [Column(TypeName = "nvarchar(max)")]
+    [Column(TypeName = "nvarchar(255)")]
     public string Summary { get; set; }
     
-    [Column(TypeName = "nvarchar(250)")]
+    [Column(TypeName = "text")]
     public string Description { get; set; }
     
     [Column(TypeName = "decimal(12,2)")]
