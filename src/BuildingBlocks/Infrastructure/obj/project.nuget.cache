@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "lO+BBhl9IKJQr08eCbnpiXdYYrvYfERz+OgYyyUk2Qzua7SbxMGLUG8uirZyjIZyGg+KpdGJnHZaX6BWKFEMlw==",
+  "dgSpecHash": "JDoYo81FQW2Qjd6m5O6f04yJ1sJ6ArqOm6y7xP4rK/rd1rW2pUc8qz5b+d1zF4xjxKHs0RIMAOAAzHcwKpFD8w==",
   "success": true,
   "projectFilePath": "/Users/quochuy/Study/DotNet/microservice-dotnet/src/BuildingBlocks/Infrastructure/Infrastructure.csproj",
   "expectedPackageFiles": [
+    "/Users/quochuy/.nuget/packages/automapper/11.0.1/automapper.11.0.1.nupkg.sha512",
+    "/Users/quochuy/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/quochuy/.nuget/packages/microsoft.entityframeworkcore/6.0.6/microsoft.entityframeworkcore.6.0.6.nupkg.sha512",
     "/Users/quochuy/.nuget/packages/microsoft.entityframeworkcore.abstractions/6.0.6/microsoft.entityframeworkcore.abstractions.6.0.6.nupkg.sha512",
     "/Users/quochuy/.nuget/packages/microsoft.entityframeworkcore.analyzers/6.0.6/microsoft.entityframeworkcore.analyzers.6.0.6.nupkg.sha512",

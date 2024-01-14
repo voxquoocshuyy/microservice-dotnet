@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "cbXlHrIuLQbCJZj0oCmrFOvcsdMEsfz+pQtWklE1nc2tUWDZfOw0an3rfvbn2iiFkzeRheRhhocLO3peCxICtA==",
+  "dgSpecHash": "Nr+EB0N5FyPVwAM3Pggice8l88DWsB99L8AqbRpfbQasu/Dbhd8OJljGvSCai15eWTx2POpr1FzKJFS3v8seQA==",
   "success": true,
   "projectFilePath": "/Users/quochuy/Study/DotNet/microservice-dotnet/src/Services/Product.API/Product.API.csproj",
   "expectedPackageFiles": [
+    "/Users/quochuy/.nuget/packages/automapper/11.0.1/automapper.11.0.1.nupkg.sha512",
+    "/Users/quochuy/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/11.0.0/automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "/Users/quochuy/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
+    "/Users/quochuy/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/quochuy/.nuget/packages/microsoft.entityframeworkcore/6.0.6/microsoft.entityframeworkcore.6.0.6.nupkg.sha512",
     "/Users/quochuy/.nuget/packages/microsoft.entityframeworkcore.abstractions/6.0.6/microsoft.entityframeworkcore.abstractions.6.0.6.nupkg.sha512",
     "/Users/quochuy/.nuget/packages/microsoft.entityframeworkcore.analyzers/6.0.6/microsoft.entityframeworkcore.analyzers.6.0.6.nupkg.sha512",
