@@ -11,7 +11,7 @@ using Product.API.Persistence;
 namespace Product.API.Migrations
 {
     [DbContext(typeof(ProductContext))]
-    [Migration("20240113082802_Init_ProductDb")]
+    [Migration("20240115074322_Init_ProductDb")]
     partial class Init_ProductDb
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -53,6 +53,9 @@ namespace Product.API.Migrations
                         .HasColumnType("nvarchar(255)");
 
                     b.HasKey("Id");
+
+                    b.HasIndex("No")
+                        .IsUnique();
 
                     b.ToTable("Products");
                 });

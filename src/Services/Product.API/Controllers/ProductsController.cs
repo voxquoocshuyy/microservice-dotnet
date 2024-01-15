@@ -39,6 +39,8 @@ public class ProductsController : ControllerBase
     [HttpPost]
     public async Task<IActionResult> CreateProduct([FromBody] CreateProductDto productDto)
     {
+        var productInDb = await _repository.GetProductByNo(productDto.No);
+        if (productInDb != null) return BadRequest($"Product {productDto.No} already exists");
         var product = _mapper.Map<CatalogProduct>(productDto);
         await _repository.CreateProduct(product);
         await _repository.SaveChangesAsync();
